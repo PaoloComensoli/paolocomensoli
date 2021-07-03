@@ -1,4 +1,6 @@
+<!--
 <img src="https://paolocomensoli.net/assets/img/logos/PcSmall.png" alt="Header" title="Header" style="max-width:100%;">
+-->
 
 ### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 I'm Paolo Comensoli
